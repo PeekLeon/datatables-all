@@ -1,0 +1,15 @@
+{
+    "name": "peekleon/datatables-all",
+    "repo": "peekleon/datatables-all",
+    "description": "DataTables and all of its extensions.",
+    "version": "1.10.18",
+	"license": "MIT",
+    "homepage": "http://www.datatables.net/",
+    "author": {
+        "name": "Allan Jardine",
+        "url": "http://www.datatables.net/"
+    },
+    "require": {
+        "components/jquery": ">=1.7"
+    }
+}
