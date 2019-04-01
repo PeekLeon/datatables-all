@@ -2,6 +2,7 @@
     "name": "peekleon/datatables-all",
     "repo": "peekleon/datatables-all",
     "description": "DataTables and all of its extensions.",
+	"keywords": ["datatables", "all", "extensions", "autofill", "buttons", "colreorder", "fixedcolumns", "fixedheader", "keytable", "responsive", "rowgroup", "rowreorder", "scroller", "select"],
     "version": "1.10.18",
 	"license": "MIT",
     "homepage": "http://www.datatables.net/",
